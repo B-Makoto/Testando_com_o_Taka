@@ -1,0 +1,2 @@
+Enter a number:
+The double of your number is 40
