@@ -1,0 +1,19 @@
+Usando git 
+
+git status: ve oq tem pra fazer
+git init: cria um repositorio
+git add file.txt: add file.txt to staging area 
+git commit -m "message" tira da staging area e funfa
+git log: sees past commits
+git add . : adds everything to be added
+git branch: mostra o branch q tu ta
+git branch 'branch-name'
+
+
+How to go back to previous versions:
+git log -> copia o hash do commit q tu quiser -> git checkout 'hash'
+
+git checkout master -> volta pra versao original (master)
+
+git checkout 'branch-name'
+
